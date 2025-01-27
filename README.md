@@ -1,9 +1,9 @@
 # Data Analyst and Executive Assistant
 
-###Education 
+### Education 
 Industrial Engineering
 
-####Work Experience
+#### Work Experience
 
 Reimbursement Data Analyst @ World Travel Assist America
  Verification of banking information and payment processing for clients, achieving a 
